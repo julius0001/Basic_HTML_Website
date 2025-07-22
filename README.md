@@ -6,4 +6,4 @@ It includes links to projects, articles, and contact information, providing a co
 - Projects Page: A detailed list of projects with descriptions and links.
 - Articles Page: A collection of articles written by the developer on various frontend development topics.
 - Contact Page: A way for visitors to get in touch with the developer.
-project URL:https://github.com/julius0001/Basic_HTML_Website.git
+- project URL:https://github.com/julius0001/Basic_HTML_Website/blob/main/README.md
